@@ -8,7 +8,7 @@ Thanks to Jeremy Howard and the [fast.ai](https://www.fast.ai) team!
 
 Original README can be found below:
 
-**NOTE!** This app is only temporarily available on the render site, but the code ~should~ work for other deployment tasks outside of Render.
+**NOTE!** This app is only temporarily available on the render site, but the code *should* work for other deployment tasks outside of Render.
 
 > # Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
 
