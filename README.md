@@ -6,6 +6,9 @@ Input an image of a cello or violin (or an image of anything!) and this model (b
 
 Thanks to Jeremy Howard and the [fast.ai](https://www.fast.ai) team!
 
+
+![asdfasdfa](https://www.dropbox.com/s/a5b176agcfxamdh/ezgif-7-3f37bce37107.gif?raw=1)
+
 Original README can be found below:
 
 **NOTE!** This app is only temporarily available on the render site, but the code *should* work for other deployment tasks outside of Render.
