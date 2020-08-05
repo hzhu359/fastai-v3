@@ -6,7 +6,7 @@ Input an image of a cello or violin (or an image of anything!) and this model (b
 
 Thanks to Jeremy Howard and the [fast.ai](https://www.fast.ai) team!
 
-<img src="/images/ezgif-7-3f37bce37107.gif" width="900" height="562.5" class="center"/>
+<img src="/images/ezgif-7-3f37bce37107.gif" width="900" height="562.5" class="cegnter"/>
 
 Original README can be found below:
 
