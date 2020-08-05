@@ -1,5 +1,5 @@
 body {
-    background-color: #fff;
+    background-image: url('https://i.imgur.com/QUl6b4v.jpg')
 }
 
 .no-display {
@@ -10,11 +10,11 @@ body {
     margin: auto;
     padding: 10px 50px;
     text-align: center;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 .title {
-    font-size: 30px;
+    font-size: 40px;
     margin-top: 1em;
     margin-bottom: 1em;
     color: #262626;
@@ -47,6 +47,8 @@ button.choose-file-button {
     border: solid 1px #7052CB;
     font-size: 13px;
     color: #7052CB;
+    cursor: pointer;
+    transition-duration: 0.4s;
 }
 
 button.analyze-button {
@@ -57,6 +59,18 @@ button.analyze-button {
     background-color: #7052CB;
     font-size: 13px;
     color: #ffffff;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+button.choose-file-button:hover {
+    background-color: #7052CB;
+    color: #ffffff;
+}
+
+button.analyze-button:hover {
+    background-color: #ffffff;
+    color: #7052CB;
 }
 
 button:focus {
